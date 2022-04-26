@@ -12,7 +12,8 @@
 	<artifactId>sisgailp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sisgailp</name>
-	<description>sistema de gestión académica de la pontificia</description>
+	<description>sistema
+		de gestión académica de la pontificia</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
